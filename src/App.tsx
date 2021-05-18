@@ -36,11 +36,15 @@ function App() : JSX.Element {
         <p><a href="https://tornado.cash/" target="_blank" className="hi">Tornado Cash</a> - A fully decentralized protocol for private transactions on Ethereum</p>
         <p><a href="https://github.com/EYBlockchain/nightfall" target="_blank" className="hi">Nightfall</a> - EY Nightfall</p>
 
-        <br/><br/>
+        <br/>
 
-        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
+        <Divider />
 
-        <br/><br/>
+        <br/>
+
+        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Contribute to this site</a> - Github</p>
+
+        <br/>
 
         <Divider/>
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
