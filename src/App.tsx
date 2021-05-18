@@ -31,6 +31,10 @@ function App() : JSX.Element {
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
         <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
 
+        <br/><br/>
+
+        <p><a href="https://github.com/unegma/zk.contact" target="_blank" className="hi">Add to this site</a></p>
+
         <br/>
 
       </Container>
