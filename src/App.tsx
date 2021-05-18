@@ -42,7 +42,7 @@ function App() : JSX.Element {
 
         <br/>
 
-        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Contribute to this site</a> - Github</p>
+        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
 
         <br/>
 
