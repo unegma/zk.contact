@@ -43,6 +43,8 @@ function App() : JSX.Element {
         <p><a href="https://matter-labs.io/" target="_blank" className="hi">Matter Labs</a> - We are an engineering team passionate about liberty, blockchain, and math</p>
         <p><a href="https://hermez.io/" target="_blank" className="hi">Hermez</a> - Scalable payments. Decentralised by design, open for everyone</p>
         <p><a href="https://github.com/EYBlockchain/starlight" target="_blank" className="hi">Starlight</a> - Generate a zApp from a Solidity contract</p>
+        <p><a href="https://minaprotocol.com/" target="_blank" className="hi">Mina Protocol</a> - The world's lightest blockchain, powered by participants</p>
+        <p><a href="https://zks.org/" target="_blank" className="hi">ZKSwap</a> - ZK-Rollups based layer-2 DEX with the AMM model</p>
 
         <br/>
 
