@@ -38,7 +38,7 @@ function App() : JSX.Element {
 
         <br/><br/>
 
-        <p><a href="https://github.com/unegma/zk.contact" target="_blank" className="hi">Add to this site</a> - Github</p>
+        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
 
         <br/><br/>
 
