@@ -67,3 +67,8 @@ code {
   color: white;
   text-decoration: none;
 }
+
+.site-container {
+  height: 100vh;
+  padding: 25px 0;
+}

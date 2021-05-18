@@ -6,6 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import {
   BrowserRouter as Router, Link,
 } from 'react-router-dom';
+import {Container} from "@material-ui/core";
 
 function App() : JSX.Element {
   return (
@@ -24,6 +25,12 @@ function App() : JSX.Element {
       {/*  <Route exact path="/" component={DashboardPage} />*/}
       {/*  <Redirect to="/" />*/}
       {/*</Switch>*/}
+
+      <Container className="site-container" maxWidth="sm">
+        <Typography>This site contains links to various Projects and Proofs of Concept (POCs).</Typography>
+        <a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a>
+      </Container>
+
       </Router>
     </div>
   );
