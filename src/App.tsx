@@ -16,31 +16,20 @@ function App() : JSX.Element {
         <Toolbar>
           <Typography variant="h6" >
             <Link to="/" className="logo">
-              Unegma.Work
+              ZK.Contact
             </Link>
           </Typography>
         </Toolbar>
       </AppBar>
-      {/*<Switch>*/}
-      {/*  <Route exact path="/" component={DashboardPage} />*/}
-      {/*  <Redirect to="/" />*/}
-      {/*</Switch>*/}
-
       <Container className="site-container" maxWidth="sm">
-        <Typography>This site contains links to various Projects and Proofs of Concepts (POCs).</Typography>
+        <Typography>The definitive list for projects in the Zero Knowledge Space</Typography>
 
         <br/>
 
-        <Typography variant="h6">Projects</Typography>
-        <a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a><br/>
-        <a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT (hackathon build)</a><br/>
-
-        <br/>
-
-        <Typography variant="h6">POCs</Typography>
-        <a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a><br/>
-        <a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a><br/>
-        <a href="https://eip.design" target="_blank" className="hi">EIP Proposal builder for Ethereum</a><br/>
+        <Typography variant="h6"></Typography>
+        <p><a href="https://www.zeroknowledge.fm/" target="_blank" className="hi">Zero Knowledge Podcast</a> - Where we talk about zero knowledge research and the decentralised web</p>
+        <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
+        <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
 
         <br/>
 
