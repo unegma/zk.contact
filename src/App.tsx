@@ -26,9 +26,8 @@ function App() : JSX.Element {
 
         <br/>
 
-        <Typography variant="h6"></Typography>
-        <p><a href="https://www.zeroknowledge.fm/" target="_blank" className="hi">Zero Knowledge Podcast</a> - Where we talk about zero knowledge research and the decentralised web</p>
-
+        <Divider/>
+        <p className="bold"><a href="https://www.zeroknowledge.fm/" target="_blank" className="hi">Zero Knowledge Podcast</a> - Where we talk about zero knowledge research and the decentralised web</p>
         <Divider/>
 
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
@@ -41,10 +40,8 @@ function App() : JSX.Element {
 
         <br/><br/>
 
+        <Divider/>
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
-
-        <br/>
-
         <Divider/>
 
       </Container>
