@@ -34,6 +34,7 @@ function App() : JSX.Element {
         <br/><br/>
 
         <p><a href="https://github.com/unegma/zk.contact" target="_blank" className="hi">Add to this site</a></p>
+        <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a> - thanks to the wider blockchain/zkp community for contributions</p>
 
         <br/>
 
