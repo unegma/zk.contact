@@ -12,7 +12,7 @@ function App() : JSX.Element {
   return (
     <div className="App">
       <Router>
-      <AppBar position="static">
+      <AppBar position="static" style={{ background: '#09112f' }}>
         <Toolbar>
           <Typography variant="h6" >
             <Link to="/" className="logo">
