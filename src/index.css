@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.add-item {
+  margin-left: 0.5rem;
+}
+
+.item-list {
+  margin-top: 1rem;
+  text-align: left;
+  list-style: none;
+}
+
+.item {
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.item__text--sold {
+  text-decoration: line-through;
+  color: lightgray;
+}
+
+.item-state-filter {
+  padding: 0.3rem 0;
+  margin: 0 0.3rem;
+  cursor: pointer;
+}
+.item-state-filter--active {
+  border-bottom: 1px solid black;
+}
+
+.buy-sell-button {
+  cursor: pointer;
+}
+
+.transactions {
+}
+
+.table-style tr td {
+  padding: 10px;
+}
+
+.user-balance {
+}
+
+.MuiInput-root {
+  margin: 5px;
+}
+
+.MuiButton-root {
+  margin: 5px;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+}
