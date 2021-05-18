@@ -42,6 +42,7 @@ function App() : JSX.Element {
         <p><a href="https://github.com/haael/white-box-fapkc" target="_blank" className="hi">White-box-fapkc</a> - White-Box Cryptography based on FAPKC algorithm</p>
         <p><a href="https://matter-labs.io/" target="_blank" className="hi">Matter Labs</a> - We are an engineering team passionate about liberty, blockchain, and math</p>
         <p><a href="https://hermez.io/" target="_blank" className="hi">Hermez</a> - Scalable payments. Decentralised by design, open for everyone</p>
+        <p><a href="https://github.com/EYBlockchain/starlight" target="_blank" className="hi">Starlight</a> - Generate a zApp from a Solidity contract</p>
 
         <br/>
 
