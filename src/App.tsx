@@ -28,6 +28,7 @@ function App() : JSX.Element {
 
         <Divider/>
         <p className="bold"><a href="https://www.zeroknowledge.fm/" target="_blank" className="hi">Zero Knowledge Podcast</a> - Where we talk about zero knowledge research and the decentralised web</p>
+        <p className="bold"><a href="https://zkproof.org/" target="_blank" className="hi">ZKProof Standards</a> - A global movement to standardize and mainstream advanced cryptography by building a community-driven trust ecosystem</p>
         <Divider/>
 
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
