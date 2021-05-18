@@ -37,6 +37,7 @@ function App() : JSX.Element {
         <p><a href="https://github.com/EYBlockchain/nightfall" target="_blank" className="hi">Nightfall</a> - EY Nightfall</p>
         <p><a href="https://zokrates.github.io/" target="_blank" className="hi">ZoKrates</a> - ZoKrates is a toolbox for zkSNARKs on Ethereum</p>
         <p><a href="http://extropy.foundation/" target="_blank" className="hi">Extropy Foundation</a> - Blockchain Consultancy</p>
+        <p><a href="http://extropy.io/" target="_blank" className="hi">Extropy.io</a> - Making blockchain knowledge accessible</p>
 
         <br/>
 
