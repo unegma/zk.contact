@@ -32,7 +32,7 @@ function App() : JSX.Element {
 
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
         <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
-        <p><a href="https://github.com/fluidex" target="_blank" className="hi">Fluidex</a> - zk-rollup orderbook DEX on Ethereum using PLONK</p>
+        <p><a href="https://www.fluidex.io/" target="_blank" className="hi">Fluidex</a> - zk-rollup orderbook DEX on Ethereum using PLONK</p>
 
         <br/><br/>
 
