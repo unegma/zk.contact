@@ -40,6 +40,7 @@ function App() : JSX.Element {
         <p><a href="http://extropy.foundation/" target="_blank" className="hi">Extropy Foundation</a> - Blockchain Consultancy</p>
         <p><a href="http://extropy.io/" target="_blank" className="hi">Extropy.io</a> - Making blockchain knowledge accessible</p>
         <p><a href="https://www.horizen.io/" target="_blank" className="hi">Horizen.io</a> - Unlock the power of blockchain for real-world use cases</p>
+        <p><a href="https://vitalik.ca/" target="_blank" className="hi">Vitalik Buterin's website</a> - Plenty of ZK articles on here</p>
         <p><a href="https://www.hyperledger.org/use/ursa" target="_blank" className="hi">Hyperledger Ursa</a> - Hyperledger Ursa is a shared cryptographic library, it enables implementations to avoid duplicating other cryptographic work and hopefully increase security in the process</p>
         <p><a href="https://github.com/haael/white-box-fapkc" target="_blank" className="hi">White-box-fapkc</a> - White-Box Cryptography based on FAPKC algorithm</p>
         <p><a href="https://matter-labs.io/" target="_blank" className="hi">Matter Labs</a> - We are an engineering team passionate about liberty, blockchain, and math</p>
