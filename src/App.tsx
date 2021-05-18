@@ -39,9 +39,9 @@ function App() : JSX.Element {
         <p><a href="http://extropy.foundation/" target="_blank" className="hi">Extropy Foundation</a> - Blockchain Consultancy</p>
         <p><a href="http://extropy.io/" target="_blank" className="hi">Extropy.io</a> - Making blockchain knowledge accessible</p>
         <p><a href="https://www.horizen.io/" target="_blank" className="hi">Horizen.io</a> - Unlock the power of blockchain for real-world use cases</p>
-        <p><a href="https://developer.offchainlabs.com/docs/inside_arbitrum" target="_blank" className="hi">Arbitrum</a> - Arbitrum is an L2 scaling solution for Ethereum, offering a unique combination of benefits</p>
         <p><a href="https://github.com/haael/white-box-fapkc" target="_blank" className="hi">White-box-fapkc</a> - White-Box Cryptography based on FAPKC algorithm</p>
         <p><a href="https://matter-labs.io/" target="_blank" className="hi">Matter Labs</a> - We are an engineering team passionate about liberty, blockchain, and math</p>
+        <p><a href="https://hermez.io/" target="_blank" className="hi">Hermez</a> - Scalable payments. Decentralised by design, open for everyone</p>
 
         <br/>
 
