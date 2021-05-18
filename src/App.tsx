@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import {
   BrowserRouter as Router, Link,
 } from 'react-router-dom';
-import {Container} from "@material-ui/core";
+import {Container, Divider} from "@material-ui/core";
 
 function App() : JSX.Element {
   return (
@@ -41,6 +41,8 @@ function App() : JSX.Element {
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
 
         <br/>
+
+        <Divider/>
 
       </Container>
 
