@@ -28,8 +28,22 @@ function App() : JSX.Element {
 
       <Container className="site-container" maxWidth="sm">
         <Typography>This site contains links to various Projects and Proofs of Concepts (POCs).</Typography>
+
+        <br/>
+
+        <Typography variant="h6">Projects</Typography>
+        <a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a><br/>
+        <a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT (hackathon build)</a><br/>
+
+        <br/>
+
+        <Typography variant="h6">POCs</Typography>
         <a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a><br/>
-        <a href="https://applications.unegma.work" target="_blank" className="hi">Applications POC</a>
+        <a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a><br/>
+        <a href="https://eip.design" target="_blank" className="hi">EIP Proposal builder for Ethereum</a><br/>
+
+        <br/>
+
       </Container>
 
       </Router>
