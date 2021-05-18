@@ -27,7 +27,7 @@ function App() : JSX.Element {
       {/*</Switch>*/}
 
       <Container className="site-container" maxWidth="sm">
-        <Typography>This site contains links to various Projects and Proofs of Concept (POCs).</Typography>
+        <Typography>This site contains links to various Projects and Proofs of Concepts (POCs).</Typography>
         <a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a><br/>
         <a href="https://applications.unegma.work" target="_blank" className="hi">Applications POC</a>
       </Container>
