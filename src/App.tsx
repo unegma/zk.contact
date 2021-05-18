@@ -12,7 +12,7 @@ function App() : JSX.Element {
   return (
     <div className="App">
       <Router>
-      <AppBar position="static" style={{ background: '#09112f' }}>
+      <AppBar position="static" style={{ background: '#8932ca' }}>
         <Toolbar>
           <Typography variant="h6" >
             <Link to="/" className="logo">
@@ -33,6 +33,8 @@ function App() : JSX.Element {
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
         <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
         <p><a href="https://www.fluidex.io/" target="_blank" className="hi">Fluidex</a> - zk-rollup orderbook DEX on Ethereum using PLONK</p>
+        <p><a href="https://tornado.cash/" target="_blank" className="hi">Tornado Cash</a> - A fully decentralized protocol for private transactions on Ethereum</p>
+        <p><a href="https://github.com/EYBlockchain/nightfall" target="_blank" className="hi">Nightfall</a> - EY Nightfall</p>
 
         <br/><br/>
 
