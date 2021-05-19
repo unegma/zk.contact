@@ -50,6 +50,7 @@ function App() : JSX.Element {
         <p><a href="https://minaprotocol.com/" target="_blank" className="hi">Mina Protocol</a> - The world's lightest blockchain, powered by participants</p>
         <p><a href="https://zks.org/" target="_blank" className="hi">ZKSwap</a> - ZK-Rollups based layer-2 DEX with the AMM model</p>
         <p><a href="https://zkvalidator.com/" target="_blank" className="hi">ZKValidator</a> - Stake & Support ZKP Research</p>
+        <p><a href="https://celo.org/" target="_blank" className="hi">Celo</a> - Global payments infrastructure built for mobile</p>
 
         <br/>
 
