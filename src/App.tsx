@@ -90,14 +90,14 @@ function App() : JSX.Element {
 
         <Divider />
 
-        <br/>
 
-        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
-
-        <br/>
 
         <Divider/>
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
+
+        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
+        <br/>
+
         <Divider/>
 
       </Container>
