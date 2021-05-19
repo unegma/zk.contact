@@ -48,11 +48,15 @@ function App() : JSX.Element {
         <p><a href="https://zokrates.github.io/" target="_blank" className="hi">ZoKrates</a> - ZoKrates is a toolbox for zkSNARKs on Ethereum</p>
 
         <br/>
+        <Divider/>
+        <br/>
 
         <Typography variant="h5">Consultancy</Typography>
         <p><a href="http://extropy.foundation/" target="_blank" className="hi">Extropy Foundation</a> - Blockchain Consultancy</p>
         <p><a href="http://extropy.io/" target="_blank" className="hi">Extropy.io</a> - Making blockchain knowledge accessible</p>
 
+        <br/>
+        <Divider/>
         <br/>
 
         <Typography variant="h5">Info/Research</Typography>
@@ -61,11 +65,15 @@ function App() : JSX.Element {
         <p><a href="https://zkvalidator.com/" target="_blank" className="hi">ZKValidator</a> - Stake & Support ZKP Research</p>
 
         <br/>
+        <Divider/>
+        <br/>
 
         <Typography variant="h5">Layer 2</Typography>
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
         <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
 
+        <br/>
+        <Divider/>
         <br/>
 
         <Typography variant="h5">DEX/DApps</Typography>
@@ -75,6 +83,8 @@ function App() : JSX.Element {
         <p><a href="https://zks.org/" target="_blank" className="hi">ZKSwap</a> - ZK-Rollups based layer-2 DEX with the AMM model</p>
 
         <br/>
+        <Divider/>
+        <br/>
 
         <Typography variant="h5">Blockchain</Typography>
         <p><a href="https://minaprotocol.com/" target="_blank" className="hi">Mina Protocol</a> - The world's lightest blockchain, powered by participants</p>
@@ -82,24 +92,21 @@ function App() : JSX.Element {
         <p><a href="https://starkware.co/" target="_blank" className="hi">Starkware</a> - Bringing scalability and privacy to a blockchain near you</p>
 
         <br/>
+        <Divider/>
+        <br/>
 
 
         <Typography variant="h5">Various</Typography>
         <p><a href="https://celo.org/" target="_blank" className="hi">Celo</a> - Global payments infrastructure built for mobile</p>
 
         <br/>
-
-        <Divider />
-
-
-
         <Divider/>
-        <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
-
-        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
         <br/>
 
-        <Divider/>
+
+        <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a><br/>Thanks to the wider blockchain/zkp community for contributions</p>
+        <p className="bold"><a href="https://github.com/unegma/zk.contact" target="_blank">Add to this site</a> - Github</p>
+        <br/>
 
       </Container>
 
