@@ -23,6 +23,7 @@ function App() : JSX.Element {
       </AppBar>
       <Container className="site-container" maxWidth="sm">
         <Typography>The definitive list for projects in the Zero Knowledge Space (currently in no particular order)</Typography>
+        <Typography class="red">This site is in Beta, please <a target="_blank" href="https://unegma.com/contact">drop me a message</a> if you feel there is any error</Typography>
 
         <br/>
 
