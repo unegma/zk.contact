@@ -23,8 +23,10 @@ function App() : JSX.Element {
       </AppBar>
       <Container className="site-container" maxWidth="sm">
 
+        <br/>
         <Typography>The definitive list for projects in the Zero Knowledge Space</Typography>
         <Typography className="red">This site is in Beta, please <a target="_blank" href="https://unegma.com/contact">drop a message</a> if you feel there is any error</Typography>
+        <br/>
 
         <br/>
         <Divider/>
