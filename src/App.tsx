@@ -71,6 +71,7 @@ function App() : JSX.Element {
         <Typography variant="h5">Layer 2</Typography>
         <p><a href="https://aztec.network/" target="_blank" className="hi">Aztec</a> - Scalable Privacy on Ethereum</p>
         <p><a href="https://zksync.io/" target="_blank" className="hi">ZK Sync</a> - Rely on math, not validators</p>
+        <p><a href="https://starkware.co/" target="_blank" className="hi">Starkware</a> - Bringing scalability and privacy to a blockchain near you</p>
 
         <br/>
         <Divider/>
@@ -89,7 +90,6 @@ function App() : JSX.Element {
         <Typography variant="h5">Blockchain</Typography>
         <p><a href="https://minaprotocol.com/" target="_blank" className="hi">Mina Protocol</a> - The world's lightest blockchain, powered by participants</p>
         <p><a href="https://www.horizen.io/" target="_blank" className="hi">Horizen.io</a> - Unlock the power of blockchain for real-world use cases</p>
-        <p><a href="https://starkware.co/" target="_blank" className="hi">Starkware</a> - Bringing scalability and privacy to a blockchain near you</p>
 
         <br/>
         <Divider/>
