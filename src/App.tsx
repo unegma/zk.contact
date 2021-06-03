@@ -90,6 +90,7 @@ function App() : JSX.Element {
         <Typography variant="h5">Blockchain</Typography>
         <p><a href="https://minaprotocol.com/" target="_blank" className="hi">Mina Protocol</a> - The world's lightest blockchain, powered by participants</p>
         <p><a href="https://www.horizen.io/" target="_blank" className="hi">Horizen.io</a> - Unlock the power of blockchain for real-world use cases</p>
+        <p><a href="https://ironfish.network" target="_blank" className="hi">Ironfish.network</a> - Enable the free flow of assets through accessible and private cryptocurrency</p>
 
         <br/>
         <Divider/>
