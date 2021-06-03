@@ -99,6 +99,7 @@ function App() : JSX.Element {
 
         <Typography variant="h5">Various</Typography>
         <p><a href="https://celo.org/" target="_blank" className="hi">Celo</a> - Global payments infrastructure built for mobile</p>
+        <p><a href="https://twitter.com/JoshuaWBaron/status/1384217010419101697" target="_blank" className="hi">DARPA SIEVE</a> - SIEVE is one of many cryptography programs that DARPA has run over the last decade</p>
 
         <br/>
         <Divider/>
